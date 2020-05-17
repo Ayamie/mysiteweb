@@ -31,7 +31,8 @@ body {
 
 main .logo {
   height: 400px;
-  background-image: url("logo_texte.png"),url("logo_ninja.png");
+  background-image: url("logo_texte.svg"),url("logo_ninja.svg");
+  background-size: cover;
 }
 
 .fa {
